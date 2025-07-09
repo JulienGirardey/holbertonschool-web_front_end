@@ -73,6 +73,7 @@ a:active {
 .container {
 	width: 960px;
 	margin: 0 auto;
+	max-width: 100%;
 }
 .card-category, .section-tagline {
 	color: var(--color-primary);
